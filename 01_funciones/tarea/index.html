@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="index.css">
+    <title>Prueva</title>
+
+</head>
+<body>
+    <h1>
+        Nuestra calculadora de prueba
+    </h1>
+<script src ="index.js"></script>
+    <p>
+        Esta es una prueba de la calculadora que hemos creado.
+    </p>
+    <p>
+        Puedes probarla haciendo clic en los botones de abajo.
+    </p>
+    <div class="calculator">
+        <button onclick="add()">Sumar</button>
+        <button onclick="subtract()">Restar</button>
+        <button onclick="multiply()">Multiplicar</button>
+        <button onclick="divide()">Dividir</button>
+
+    </div>
+    <div class="result">
+        <p id="result">Resultado: </p>
+    </div>
+    <script>
+        function add() {
+            const result = 5 + 3; // Ejemplo de suma
+            document.getElementById('result').innerText = 'Resultado: ' + result;
+        }
+
+        function subtract() {
+            const result = 5 - 3; // Ejemplo de resta
+            document.getElementById('result').innerText = 'Resultado: ' + result;
+        }
+
+        function multiply() {
+            const result = 5 * 3; // Ejemplo de multiplicación
+            document.getElementById('result').innerText = 'Resultado: ' + result;
+        }
+
+        function divide() {
+            const result = 6 / 3; // Ejemplo de división
+            document.getElementById('result').innerText = 'Resultado: ' + result;
+        }    
+        
+    </script>
+</body>
+</html>

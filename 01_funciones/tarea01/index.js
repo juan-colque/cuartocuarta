@@ -1,4 +1,3 @@
-
 //Es un comentario de una sola línea
 /*
 Esto es un 
@@ -30,7 +29,5 @@ let silvato = "piiiiiiiiiiiiii";
 
 // llamar a la función y le pasamos la tarjeta 
 arbitro(tarjeta, silvato);
-
-
 
 

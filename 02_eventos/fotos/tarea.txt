@@ -1,0 +1,16 @@
+Buenas!!
+✅ Resoluciones Lógicas
+💻 Tarea 02: Eventos en JavaScript
+
+¿Qué es un evento en JavaScript?
+¿Qué evento se dispara cuando haces clic en un elemento HTML?
+¿Cómo se asigna un evento directamente en el HTML usando atributos?
+¿Qué método se usa en JavaScript para asignar un evento a un elemento?
+¿Qué evento se activa cuando el usuario presiona una tecla en el teclado?
+¿Cuál es la diferencia entre onclick y addEventListener?
+¿Qué evento se dispara cuando el mouse pasa por encima de un elemento?
+¿Cómo se previene el comportamiento predeterminado de un evento (como enviar un formulario)?
+¿Qué evento se usa para detectar cuando un usuario cambia el valor de un campo de texto (<input>)?
+¿Qué objeto en JavaScript contiene información sobre un evento cuando este ocurre?
+
+➡️ Responder en la carpeta

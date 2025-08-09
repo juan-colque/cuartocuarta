@@ -1,0 +1,16 @@
+Buenas!!  
+envío Práctico sobre Funciones
+1.¿Cuál es la palabra clave que se usa para declarar una función en JavaScript?,
+2.¿Cómo se llama o ejecuta una función en JavaScript después de haberla definido?,
+3.¿Qué devuelve una función de JavaScript si no se especifica explícitamente un valor de retorno?,
+4.¿Qué son los parámetros en el contexto de una función de JavaScript?,
+5.¿Cuál es la diferencia entre un parámetro y un argumento en una función de JavaScript?,
+6.¿Qué hace la palabra clave return en una función de JavaScript?,
+7.¿Cuál es el propósito principal de usar funciones en programación?,
+8.¿Qué tipo de función se define sin un nombre, y se usa a menudo como argumento para otras funciones?,
+9.Explica brevemente el concepto de "ámbito" (scope) en JavaScript en el contexto de las funciones.,
+10.Describe la diferencia fundamental entre una declaración de función y una expresión de función en JavaScript.,
+11.Explica el significado de una función en JavaScript,
+12.Escribe un ejemplo de código de funciones en JavaScript,
+ Respuestas en carpeta
+1 de agosto de 2025

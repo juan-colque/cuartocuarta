@@ -1,0 +1,8 @@
+👨🏻‍💻 Tarea 02: Página Producto
+📢 Dentro del Proyecto 02-eventos
+
+1. Crear una página llamada producto.html
+2. Crear un archivo de css llamado producto.css
+3. Crear un ancla en la imagen del Producto que nos dirija a la pagina de producto.html
+4. En la página producto.html debe estar la descripción del producto a vender, el precio del producto, los talles o colores o datos del producto.
+5. Crear una barra de navegación en la página de producto que me retorne al home

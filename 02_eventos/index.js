@@ -1,5 +1,10 @@
 // Creamos la funcioon para Cerrar Sesión
-function cerraSecion () {
+function cerrarSesion() {
     
-    alert("Cerrar Sesion, gracias por la visita");
+    alert("Cerraste sesión, gracias por la visita");
 }
+
+    // Función para salir de la página
+    function salirPagina() {
+    location.href = "https://www.google.com";
+    }

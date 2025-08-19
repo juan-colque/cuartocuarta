@@ -1,6 +1,6 @@
 
 body{
-    background-color: rgb(243, 240, 64);
+    background-color: rgb(67, 133, 233);
 }
 h1{
     color: rgb(17, 16, 16);
@@ -21,21 +21,29 @@ button{
 }
 /* Una clase se seleciona con un punto */
 .verde{
-    background-color: rgb(0, 255, 0);
-    color: rgb(12, 11, 11);
+    background-color: rgb(2, 207, 2);
+    color: rgb(245, 240, 240);
+    margin-right: 15px;
 }
 
 .rojo{
-    background-color: rgb(255, 0, 0);
-    color: rgb(8, 8, 8);
+    background-color: red;
+    color: rgb(245, 240, 240);
+    margin-right: 15px;
 }
 
-body {
+
+.botones{
     display: flex;
-    flex-direction: column; /* Alinea los elementos en columna */
-    align-items: center; /* Centra vertical */
-    justify-content: horizontal; /* Centra vertical */
-    height: 100vh; /* Ocupa toda la altura */
+    flex-direction: row;
+    justify-content: center;
+    margin: 25px;
+}
+
+.Salir{
+    background-color: rgb(7, 7, 223);
+    margin-left: 0px;
+    color: rgb(245, 240, 240);
 }
 
 
